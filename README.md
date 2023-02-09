@@ -15,6 +15,3 @@ Well-versed in numerous programming languages including HTML5, CSS, JavaScript, 
 
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dhrupo)
-
-## Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dhrupo/dhrupo)

@@ -6,7 +6,7 @@
 
 ### Hey, I'm Dhrupo 👋
 
-Software Engineer at [**WPManageNinja**](https://github.com/WPManageNinja) — building WordPress products that power **300K+ websites**. I work across the full stack: from Gutenberg blocks in React to REST APIs in PHP, Vue dashboards, and everything in between.
+Senior Software Engineer at [**WPManageNinja**](https://github.com/WPManageNinja) — building WordPress products that power **300K+ websites**. I work across the full stack: from Gutenberg blocks in React to REST APIs in PHP, Vue dashboards, and everything in between.
 
 Currently building **[Fluent Forms](https://github.com/fluentform/fluentform)** and **Fluent Player** — media and form solutions for WordPress.
 
@@ -30,15 +30,25 @@ Currently building **[Fluent Forms](https://github.com/fluentform/fluentform)** 
 
 <div align="center">
 <a href="https://github.com/dhrupo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrupo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhrupo&theme=github_dark" />
 </a>
 <a href="https://github.com/dhrupo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhrupo&theme=github_dark" />
+</a>
+<a href="https://github.com/dhrupo">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhrupo&theme=github_dark" />
+</a>
+<a href="https://github.com/dhrupo">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhrupo&theme=github_dark&utcOffset=6" />
 </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrupo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhrupo&theme=github_dark" />
 </div>
 
 <div align="center">
